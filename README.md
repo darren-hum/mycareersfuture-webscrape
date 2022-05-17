@@ -2,7 +2,7 @@
 
 ## Purpose and Scope
 - To develop a script to extract job posting data from mycareersfuture website
-- To deploy it to aws and automate using lambda, storing data to s3
+- To test/poc deploying it to aws and automate using lambda, storing data to s3
 
 ## Developing
 # chromedriver and binary
